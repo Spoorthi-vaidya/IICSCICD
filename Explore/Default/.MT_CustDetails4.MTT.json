@@ -16,8 +16,8 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "",
-        "contentType" : null,
+        "description" : "Changes.",
+        "contentType" : "JSON",
         "documentState" : "VALID"
       }
     }
@@ -80,7 +80,7 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "",
+        "description" : "mademmmmmmmmmmmmmm",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
