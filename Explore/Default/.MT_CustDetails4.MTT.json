@@ -16,8 +16,13 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
+<<<<<<< HEAD
         "description" : "Changes.",
         "contentType" : "JSON",
+=======
+        "description" : "",
+        "contentType" : null,
+>>>>>>> fd15cbd (2022-06-16 17:55:49.819621-checked in objects with the tagvalue test1)
         "documentState" : "VALID"
       }
     }
@@ -80,7 +85,11 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
+<<<<<<< HEAD
         "description" : "mademmmmmmmmmmmmmm",
+=======
+        "description" : "",
+>>>>>>> fd15cbd (2022-06-16 17:55:49.819621-checked in objects with the tagvalue test1)
         "contentType" : "JSON",
         "documentState" : "VALID"
       }

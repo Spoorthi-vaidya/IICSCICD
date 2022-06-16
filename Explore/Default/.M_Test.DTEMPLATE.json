@@ -16,7 +16,11 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
+<<<<<<< HEAD
         "description" : "made changes in description",
+=======
+        "description" : "",
+>>>>>>> fd15cbd (2022-06-16 17:55:49.819621-checked in objects with the tagvalue test1)
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
