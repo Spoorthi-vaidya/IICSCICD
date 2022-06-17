@@ -16,7 +16,11 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
+<<<<<<< HEAD
         "description" : "Changed Friday",
+=======
+        "description" : "Changes.",
+>>>>>>> 17f19b0 (2022-06-17 17:19:15.744561-checked in objects with the tagvalue test1)
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
@@ -76,16 +80,22 @@
         "repoHandle" : "01C5KN17000000000002"
       },
 <<<<<<< HEAD
+<<<<<<< HEAD
       "contextAttributes" : null,
       "additionalInfo" : {
         "description" : "Changes Made - Friday 5:21 PM",
 =======
+=======
+>>>>>>> 17f19b0 (2022-06-17 17:19:15.744561-checked in objects with the tagvalue test1)
       "contextAttributes" : [ {
         "name" : "id",
         "value" : "@1"
       } ],
       "additionalInfo" : {
         "description" : "mademmmmmmmmmmmmmm",
+<<<<<<< HEAD
+>>>>>>> 17f19b0 (2022-06-17 17:19:15.744561-checked in objects with the tagvalue test1)
+=======
 >>>>>>> 17f19b0 (2022-06-17 17:19:15.744561-checked in objects with the tagvalue test1)
         "contentType" : "JSON",
         "documentState" : "VALID"

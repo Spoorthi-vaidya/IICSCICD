@@ -16,8 +16,13 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
+<<<<<<< HEAD
         "description" : "Changed-Friday",
         "contentType" : "JSON",
+=======
+        "description" : "",
+        "contentType" : null,
+>>>>>>> 17f19b0 (2022-06-17 17:19:15.744561-checked in objects with the tagvalue test1)
         "documentState" : "VALID"
       }
     }
@@ -75,9 +80,18 @@
       "repoInfo" : {
         "repoHandle" : "01C5KN17000000000002"
       },
+<<<<<<< HEAD
       "contextAttributes" : null,
       "additionalInfo" : {
         "description" : "Changes Made - Friday 5:21 PM",
+=======
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "mademmmmmmmmmmmmmm",
+>>>>>>> 17f19b0 (2022-06-17 17:19:15.744561-checked in objects with the tagvalue test1)
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
