@@ -17,10 +17,14 @@
       } ],
       "additionalInfo" : {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "description" : "Changed Friday",
 =======
         "description" : "Changes.",
 >>>>>>> 17f19b0 (2022-06-17 17:19:15.744561-checked in objects with the tagvalue test1)
+=======
+        "description" : "Changed Friday",
+>>>>>>> c89e5a5 (Checkin)
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
